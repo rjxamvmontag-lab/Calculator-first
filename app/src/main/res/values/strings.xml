@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="copied_to_clipboard">Result copied to clipboard</string>
+    <string name="history_title">Calculation History</string>
+    <string name="clear_history">Clear History</string>
+    <string name="history_empty">No recent calculations</string>
+</resources>
